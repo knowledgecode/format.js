@@ -1,6 +1,6 @@
 # Format.js
 Format.js is a simple JavaScript format function, like a Java String.format.  
-It works in Chrome, Firefox, Safari, Safari, Opera, and IE 6.0+.
+It works in Chrome, Firefox, Safari, Opera, and IE 6.0+.
 
 ## Usage
 ### String
