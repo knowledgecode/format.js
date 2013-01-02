@@ -58,7 +58,6 @@
             i++;
         }
         value += str.substring(index);
-//alert(value);
         return value.replace(/%%/g, '%');
     };
 
